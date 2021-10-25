@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joaoeurico/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/bokomoko)
 
-I´m João Eurico, (a.k.a "Bokomoko"), a senior full-stack developer, seasoned IT executive and creator of digital entities. Like apps, sites and bubbles of knowledge floating over the Internet. Right now I´m focusing on developing full-stack apps wih Reac.JS/Next.JS, Vue.JS and Node.JS, Python and such. My mission is to create a better world for every living thing, including the "Carbon Units". By making software, devising tech solutions, pushing for a greener, smarter, digitalized way of life, humanity can do greatness.
+I´m João Eurico, (a.k.a "Bokomoko"), a senior full-stack developer, seasoned IT executive and creator of digital assets. Assets like apps, sites and bubbles of knowledge floating over the Internet. Right now I´m focusing on developing full-stack apps wih Reac.JS/Next.JS, Vue.JS and Node.JS, Python and such. My mission is to create a better world for every living thing, including the "Carbon Units". By making software, devising tech solutions, pushing for a greener, smarter, digitalized way of life, humanity can do greatness.
 
 Want to know more about me? [Check out my portfolio.](https://ipfs.io/ipfs/QmVSZjRqioiPaTNgxEbqkpLm9m27XLVkbngtybfUumEFsf)
 
