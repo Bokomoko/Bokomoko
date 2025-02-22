@@ -9,33 +9,34 @@ I´m João Eurico, (a.k.a "Bokomoko"), a senior full-stack developer, seasoned I
 
 Want to know more about me? [Check out my portfolio.](https://ipfs.io/ipfs/QmVSZjRqioiPaTNgxEbqkpLm9m27XLVkbngtybfUumEFsf)
 
-## 📝 Latest Blog Posts
+## PGP public key, used for secure communication
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/Bokomoko/bbcita-store">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bokomoko&repo=https://github.com/Bokomoko/bbcita-store&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://professional-site/">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bokomoko&repo=https://professional-site&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
-
+mDMEZ7jc1RYJKwYBBAHaRw8BAQdAthzC7mKHAnllZHah+es1Z9E9n1rkbHUYxmKp
+lsboTwG0ZEpvw6NvIEV1cmljbyBkZSBBZ3VpYXIgTGltYSAoQ1BGIDQ1OTU5Nzkw
+NDU5KSAoRm9yIHNpZ25pbmcgYW5kIGF1dGggcHVycG9zZXMpIDxqb2FvLmV1cmlj
+b0BsaXZlLmNvbT6ImQQTFgoAQRYhBLT28BlUavfGYv/ESZ8UJ2ie/WTfBQJnuNzV
+AhsDBQkB4TOABQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEJ8UJ2ie/WTf
+eSoA/iP80A3te589iXMJaXOh5T/Fp137Um7vZ8IFKqvgAFN8AQDaJ00G3477arPw
+Xn8On5RSW5lMU5Ih06bajgJCCZFQCrg4BGe43NUSCisGAQQBl1UBBQEBB0CLedFe
+cg2JXp25+UKCIm/hhYmzjEISTSUH0h8DfUPvJwMBCAeIfgQYFgoAJhYhBLT28BlU
+avfGYv/ESZ8UJ2ie/WTfBQJnuNzVAhsMBQkB4TOAAAoJEJ8UJ2ie/WTfvu8A/0VU
+YZTL3bAymwUvozUyiuI8QhPV+TqyZpoOrEnnmI8vAP44/Ywv69T4heMHaFn+iWfZ
+XxU7uGdWF7FrV3+QHO9BDLgzBGe43g4WCSsGAQQB2kcPAQEHQL9yihzWXZm6iqfy
+oJ+aWxx4YmZDj+ImFSlZ8GXfxg2UiH4EGBYKACYWIQS09vAZVGr3xmL/xEmfFCdo
+nv1k3wUCZ7jeDgIbIAUJAeEzgAAKCRCfFCdonv1k34cSAQDeXaGx72l+Vj5WlVVT
+u76IWBdPyaaeTp+eZh70bz2wgwEA6hgReP/cN5+GpyZHEKV+1hzp/qbH77ERyNje
+Do/TBgu4MwRnuOA7FgkrBgEEAdpHDwEBB0AF6Mws+ZJ/86PR7KugcaJJghdBbpTs
+zul5KyjNvGW60Yj1BBgWCgAmFiEEtPbwGVRq98Zi/8RJnxQnaJ79ZN8FAme44DsC
+GwIFCQHhM4AAgQkQnxQnaJ79ZN92IAQZFgoAHRYhBJ9lpzxVKItBDKfCnTde/TB2
+YeLiBQJnuOA7AAoJEDde/TB2YeLiPm0BALFQUtMe3TvLLaM00eJ0BlyetZm9aAym
+Bd5xNgOoZ+PcAP9i+rXw+iaMcl55WVaPkgZqAdrue1jrL2iD5x2npXZDBI1GAP0T
+jEsOiCQ1BDqPWiioLkfArXQf9/gGfrgQJrl6+X3myQEAhKBZ0WyKNyaHugEakElW
+UxsvH0Kuzh5qNJdr3eyNxgU=
+=C3F+
+-----END PGP PUBLIC KEY BLOCK-----
+```
 ## &#x1f4c8; GitHub Stats
 
 <br>
