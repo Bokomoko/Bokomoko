@@ -1,6 +1,7 @@
 # Greetings Earthling! I come in peace 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/Bokomoko/Bokomoko)](https://ipfs.io/ipfs/QmVSZjRqioiPaTNgxEbqkpLm9m27XLVkbngtybfUumEFsf)
+![Profile Views](https://komarev.com/ghpvc/?username=bokomoko&label=Profile%20views&color=0e75b6&style=flat)
+
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Bokomoko)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/joaoeurico/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/bokomoko)
