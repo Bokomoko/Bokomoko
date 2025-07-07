@@ -51,23 +51,11 @@ UxsvH0Kuzh5qNJdr3eyNxgU=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub Stats
 
-<br>
+[![Bokomoko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bokomoko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/bokomoko)
 
-<a href="https://certificates.digitalinnovation.one/E000C23B">
-    <iframe src="https://certificates.digitalinnovation.one/E000C23B"
-            width="400" height="200"
-            style="margin:0.5rem">
-    </iframe>
-</a>
-
-<a href="https://github.com/bokomoko">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bokomoko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Bokomoko´s git stats" />
-</a>
-
-<br>
-<br>
+[![Bokomoko's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bokomoko&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&langs_count=3)](https://github.com/bokomoko)
 
 ## 💼 Skills
 
@@ -78,30 +66,26 @@ UxsvH0Kuzh5qNJdr3eyNxgU=
 ![MongoDB](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
-<details>
-<summary>More Skills</summary>
-<br>
+### Additional Skills
 
+**Styling:**
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![Tailwind](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 ![Sass](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
 
-<br>
-
+**AI & Machine Learning:**
 ![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-informational?style=flat&logo=openai&logoColor=white&color=4AB197)
 ![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
 ![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-informational?style=flat&logo=openai&logoColor=white&color=4AB197)
 ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-informational?style=flat&logo=protocol&logoColor=white&color=4AB197)
 
-<br>
-
+**Testing:**
 ![Mocha](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
 ![Pytest](https://img.shields.io/badge/Test-Pytest-informational?style=flat&logo=pytest&logoColor=white&color=4AB197)
 ![Cypress](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=4AB197)
 ![Jest](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 
-<br>
-
+**Tools:**
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
 ![Netlify](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=Netlify&logoColor=white&color=4AB197)
