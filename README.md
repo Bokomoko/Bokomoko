@@ -9,7 +9,19 @@ I´m João Eurico, (a.k.a "Bokomoko"), a senior full-stack developer, seasoned I
 
 Want to know more about me? [Check out my portfolio.](https://ipfs.io/ipfs/QmVSZjRqioiPaTNgxEbqkpLm9m27XLVkbngtybfUumEFsf)
 
+## 🚀 Areas of Interest
+
+I'm passionate about cutting-edge technologies and always exploring new frontiers in:
+
+- **🤖 Artificial Intelligence & Machine Learning** - Building intelligent systems that can learn and adapt
+- **🧠 Large Language Models (LLM)** - Exploring the capabilities of advanced AI language models
+- **🔗 Model Context Protocol (MCP)** - Working with standardized AI model communication protocols
+- **🐹 Go Programming** - Building efficient, concurrent applications with Go
+- **🐍 Python Development** - Data science, automation, and backend systems
+- **⚡ JavaScript Ecosystem** - Modern web development with the latest JS technologies
+
 ## PGP public key, used for secure communication
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -37,12 +49,13 @@ UxsvH0Kuzh5qNJdr3eyNxgU=
 =C3F+
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
 
 <a href="https://certificates.digitalinnovation.one/E000C23B">
-    <iframe src="https://certificates.digitalinnovation.one/E000C23B" 
+    <iframe src="https://certificates.digitalinnovation.one/E000C23B"
             width="400" height="200"
             style="margin:0.5rem">
     </iframe>
@@ -92,18 +105,3 @@ UxsvH0Kuzh5qNJdr3eyNxgU=
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
-
-## 📣 How about an Office quote before you go?
-
-> {office_quote}
->
-> <p>{office_character}</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
