@@ -75,9 +75,6 @@ UxsvH0Kuzh5qNJdr3eyNxgU=
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![C#](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![.NET](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
 ![MongoDB](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
@@ -91,7 +88,17 @@ UxsvH0Kuzh5qNJdr3eyNxgU=
 
 <br>
 
+![AI](https://img.shields.io/badge/AI-Artificial%20Intelligence-informational?style=flat&logo=openai&logoColor=white&color=4AB197)
+![Machine Learning](https://img.shields.io/badge/ML-Machine%20Learning-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-informational?style=flat&logo=openai&logoColor=white&color=4AB197)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-informational?style=flat&logo=protocol&logoColor=white&color=4AB197)
+
+<br>
+
 ![Mocha](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
+![Pytest](https://img.shields.io/badge/Test-Pytest-informational?style=flat&logo=pytest&logoColor=white&color=4AB197)
+![Cypress](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=cypress&logoColor=white&color=4AB197)
+![Jest](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
 
 <br>
 
